@@ -1,0 +1,172 @@
+{\rtf1\ansi \deff49\deflang1033{\fonttbl{\f4\froman\fcharset0\fprq2 Times New Roman;}{\f8\froman\fcharset0\fprq2 Times{\*\falt Times New Roman};}{\f49\froman\fcharset0\fprq2 Garamond MT{\*\falt Garamond};}
+{\f65\fswiss\fcharset0\fprq2 Verdana;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;
+\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\li397\ri170\widctlpar \f49\lang1053 \snext0 Normal;}{
+\s1\li397\ri170\sb200\sa160\keepn\widctlpar\hyphpar0 \scaps\f65\fs36\lang1053\kerning28 \sbasedon0\snext15 heading 1;}{\s2\li397\ri170\sb200\sa120\keepn\widctlpar\hyphpar0 \f65\fs28\lang1053 \sbasedon0\snext15 heading 2;}{
+\s3\li397\ri170\sb80\keepn\widctlpar\hyphpar0 \b\f65\lang1053 \sbasedon0\snext15 heading 3;}{\s4\li397\ri170\sa60\widctlpar \b\i\f49\lang1053 \sbasedon0\snext0 heading 4;}{\s5\li397\ri170\sb240\sa60\widctlpar \f49\fs22\lang1053 \sbasedon0\snext0 
+heading 5;}{\s6\li397\ri170\sb240\sa60\widctlpar \i\f49\fs22\lang1053 \sbasedon0\snext0 heading 6;}{\s7\li397\ri170\sb240\sa60\widctlpar \f49\fs20\lang1053 \sbasedon0\snext0 heading 7;}{\s8\li397\ri170\sb240\sa60\widctlpar \i\f49\fs20\lang1053 
+\sbasedon0\snext0 heading 8;}{\s9\li397\ri170\sb240\sa60\widctlpar \b\i\f49\fs18\lang1053 \sbasedon0\snext0 heading 9;}{\*\cs10 \additive Default Paragraph Font;}{\s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 \sbasedon0\snext15 
+Body Text;}{\s16\qj\fi-2552\li2552\ri170\sb120\sa120\widctlpar \f49\lang1053 \sbasedon0\snext16 Journaltext;}{\s17\li397\ri170\sb120\sa120\widctlpar\tqr\tldot\tx9072 \b\caps\f65\fs20\lang1024 \sbasedon0\snext0 toc 1;}{
+\s18\li624\ri170\widctlpar\tqr\tldot\tx9072 \f65\fs20\lang1024 \sbasedon0\snext0 toc 2;}{\s19\li737\ri170\widctlpar\tqr\tldot\tx9072 \f65\fs16\lang1024 \sbasedon0\snext0 toc 3;}{\s20\li720\ri170\widctlpar\tqr\tldot\tx9072 \f4\fs18\lang1053 
+\sbasedon0\snext0 toc 4;}{\s21\li960\ri170\widctlpar\tqr\tldot\tx9072 \f4\fs18\lang1053 \sbasedon0\snext0 toc 5;}{\s22\li1200\ri170\widctlpar\tqr\tldot\tx9072 \f4\fs18\lang1053 \sbasedon0\snext0 toc 6;}{\s23\li1440\ri170\widctlpar\tqr\tldot\tx9072 
+\f4\fs18\lang1053 \sbasedon0\snext0 toc 7;}{\s24\li1680\ri170\widctlpar\tqr\tldot\tx9072 \f4\fs18\lang1053 \sbasedon0\snext0 toc 8;}{\s25\li1920\ri170\widctlpar\tqr\tldot\tx9072 \f4\fs18\lang1053 \sbasedon0\snext0 toc 9;}{\s26\li397\ri170\sa160\widctlpar 
+\scaps\f65\fs36\lang1053 \sbasedon0\snext26 Inneh\'e5llsrubrik;}{\s27\qc\li397\ri170\widctlpar\noline\hyphpar0 \b\i\f49\fs40\lang1053\kerning52 \sbasedon0\snext27 Rapport Undertitel;}{\s28\qc\li397\ri170\sb3000\widctlpar\noline\hyphpar0 
+\b\scaps\f49\fs52\lang1053\kerning52 \sbasedon0\snext27 RapportTitel;}{\s29\li397\ri170\widctlpar\tqc\tx4536\tqr\tx9072 \f49\lang1053 \sbasedon0\snext29 footer;}{\s30\qr\li397\ri170\widctlpar\brdrb\brdrs\brdrw15\brsp20 \tqc\tx4536\tqr\tx9072 
+\f49\lang1053 \sbasedon0\snext30 header;}{\*\cs31 \additive\sbasedon10 page number;}{\s32\qj\fi-284\li1248\ri737\sa180\sl240\slmult0\widctlpar \i\f49\lang1053 \sbasedon15\snext32 Citat;}{\s33\qj\fi-284\li681\ri170\sa180\sl240\slmult0
+\keepn\widctlpar{\*\pn \pnlvl10\
+\pnf8\pnstart1\pnindent283\pnhang{\pntxtb ?}}\b\f49\lang1053 \sbasedon15\snext33 Punktrubrik;}{\s34\qj\fi-340\li737\ri170\sa180\sl240\slmult0\widctlpar{\*\pn \pnlvl10\pndec\
+\pnstart1\pnindent340\pnhang{\pntxta ?}}
+\f49\lang1053 \sbasedon15\snext34 Referenser;}}{\info{\title PROJEKTPLAN}{\subject Sensory integration}{\author Marie Holmlund}{\operator Marie Holmlund}{\creatim\yr1999\mo2\dy2\hr11\min37}{\revtim\yr1999\mo2\dy3\hr11\min59}
+{\printim\yr1999\mo2\dy1\hr18\min19}{\version4}{\edmins33}{\nofpages7}{\nofwords2054}{\nofchars11709}{\*\company  }{\vern57439}}\paperw11906\paperh16838\margl1417\margr1417\margt1417\margb1417 
+\deftab1304\widowctrl\ftnbj\aenddoc\hyphhotz425\hyphcaps0\formshade \fet0\sectd \linex0\headery709\footery709\colsx709\endnhere {\footer \pard\plain \s29\li397\ri170\widctlpar\tqc\tx4536\tqr\tx9072\pvpara\phmrg\posxr\posy0 \f49\lang1053 
+{\field{\*\fldinst {\cs31 PAGE  }}{\fldrslt {\cs31\lang1024 5}}}{\cs31 
+\par }\pard \s29\li397\ri360\widctlpar\tqc\tx4536\tqr\tx9072 
+\par }{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta ?}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta ?}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta ?}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta ?}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang{\pntxtb ?}{\pntxta ?}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb ?}{\pntxta ?}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb ?}{\pntxta ?}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang
+{\pntxtb ?}{\pntxta ?}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb ?}{\pntxta ?}}\pard\plain \s26\li397\ri170\sa160\widctlpar \scaps\f65\fs36\lang1053 {\*\bkmkstart _Toc442164622}Inneh\'e5llsf\'f6rteckning{\*\bkmkend _Toc442164622}
+\par \pard\plain \s17\li397\ri170\sb120\sa120\widctlpar\tqr\tldot\tx9072 \b\caps\f65\fs20\lang1024 {\field\fldedit{\*\fldinst {\fs22  TOC \\o "1-3" }}{\fldrslt Introduktion\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617542  {\field{\*\fldinst  PAGEREF
+ _Toc442617542 }{\fldrslt 1}}}}
+\par \pard\plain \s18\li624\ri170\widctlpar\tqr\tldot\tx9072 \f65\fs20\lang1024 {\expnd2\expndtw10 Inledning}\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617543  {\field{\*\fldinst  PAGEREF _Toc442617543 }{\fldrslt 1}}}}
+\par Bakgrund\tab {\field\flddirty{\*\fldinst  GOTOBUTTON _Toc442617544  {\field{\*\fldinst  PAGEREF _Toc442617544 }{\fldrslt 1}}}}
+\par \pard\plain \s19\li737\ri170\widctlpar\tqr\tldot\tx9072 \f65\fs16\lang1024 SI-processen\tab {\field\flddirty{\*\fldinst  GOTOBUTTON _Toc442617545  {\field{\*\fldinst  PAGEREF _Toc442617545 }{\fldrslt 1}}}}
+\par SI-teori\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617546  {\field{\*\fldinst  PAGEREF _Toc442617546 }{\fldrslt 1}}}}
+\par SI-instrument\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617547  {\field{\*\fldinst  PAGEREF _Toc442617547 }{\fldrslt 1}}}}
+\par ESP\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617548  {\field{\*\fldinst  PAGEREF _Toc442617548 }{\fldrslt 1}}}}
+\par \pard\plain \s17\li397\ri170\sb120\sa120\widctlpar\tqr\tldot\tx9072 \b\caps\f65\fs20\lang1024 Syfte\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617549  {\field{\*\fldinst  PAGEREF _Toc442617549 }{\fldrslt 1}}}}
+\par Metod\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617550  {\field{\*\fldinst  PAGEREF _Toc442617550 }{\fldrslt 1}}}}
+\par \pard\plain \s18\li624\ri170\widctlpar\tqr\tldot\tx9072 \f65\fs20\lang1024 Backtranslation\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617551  {\field{\*\fldinst  PAGEREF _Toc442617551 }{\fldrslt 1}}}}
+\par Tillv\'e4gag\'e5ngss\'e4tt\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617552  {\field{\*\fldinst  PAGEREF _Toc442617552 }{\fldrslt 1}}}}
+\par Material\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617553  {\field{\*\fldinst  PAGEREF _Toc442617553 }{\fldrslt {\b Fel! Bokm\'e4rket \'e4r inte definierat.}}}}}
+\par \pard\plain \s17\li397\ri170\sb120\sa120\widctlpar\tqr\tldot\tx9072 \b\caps\f65\fs20\lang1024 Studiens betydelse\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617554  {\field{\*\fldinst  PAGEREF _Toc442617554 }{\fldrslt 5}}}}
+\par Tidsplan\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617555  {\field{\*\fldinst  PAGEREF _Toc442617555 }{\fldrslt 5}}}}
+\par Ekonomisk kalkyl\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617556  {\field{\*\fldinst  PAGEREF _Toc442617556 }{\fldrslt 5}}}}
+\par Referenslista\tab {\field{\*\fldinst  GOTOBUTTON _Toc442617557  {\field{\*\fldinst  PAGEREF _Toc442617557 }{\fldrslt 6}}}}
+\par }}\pard\plain \s17\li397\ri170\sb120\sa120\widctlpar\tqr\tldot\tx9072 \b\caps\f65\fs20\lang1024 Bilaga 1-3{\caps0 
+\par }\pard\plain \s1\li397\ri170\sb200\sa160\keepn\widctlpar\hyphpar0 \scaps\f65\fs36\lang1053\kerning28 \page {\*\bkmkstart _Toc442164623}{\*\bkmkstart _Toc442617542}Introduktion{\*\bkmkend _Toc442164623}{\*\bkmkend _Toc442617542}
+\par \pard\plain \s2\li397\ri170\sb200\sa120\keepn\widctlpar\hyphpar0 \f65\fs28\lang1053 {\*\bkmkstart _Toc442164624}{\*\bkmkstart _Toc442617543}Inledning{\*\bkmkend _Toc442164624}{\*\bkmkend _Toc442617543}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 Sensorisk integration (SI) h\'e4nvisar b\'e5de till en neurologisk process och en teori som beskriver sambandet mellan den neurologiska processen och m\'e4
+nniskans beteende (P). Teorin grundades av arbetsterapeuten A. Jean Ayres Ph.D. Hennes fr\'e4msta avsikt var att utveckla en teori som kunde f\'f6rklara sambanden mellan beteende och kroppens neurologiska funktioner i syfte att kunna best\'e4mma en framg
+\'e5ngsrik intervention (P, M). Forskning inom SI-teorin har p\'e5g\'e5tt sedan 1960-talet och \'e4r omfattande, speciellt i USA. Intresset har p\'e5 senare tid \'f6kat \'e4ven i andra delar av v\'e4rlden, inklusive Sverige. Ayres f\'f6
+rklarade den neurologiska processen som en organisation/bearbetning av sinnesintryck fr\'e5n kropp och omgivning i syfte att fungera effektivt i sin milj\'f6 (Q).
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar Fr\'e5n att teorin ursprungligen utvecklats med avsikt att hj\'e4lpa yngre skolbarn med inl\'e4rningsproblem, omfattas nu m\'e4nniskor i alla \'e5ldrar och med varierande diagnoser. N\'e5
+gra exempel p\'e5 diagnoser \'e4r autism, ADD, ADHD och CP-skador (H). Det \'e4r emellertid viktigt att p\'e5peka att SI-behandlingen inte s\'e4tts in f\'f6r att {\i bota} dessa syndrom, utan f\'f6r att f\'f6rb\'e4
+ttra den sensoriska integrationen som ofta ocks\'e5 \'e4r nedsatt (P).
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar Sedan 80-talet har ett stort antal bed\'f6mningsinstrument utvecklats inom SI (H). Ett av dessa, {\i Evaluation of Sensory Processing} (ESP), \'e4r ett fr\'e5geformul\'e4r st\'e4llt till f\'f6r\'e4
+ldrar vars barn har, eller misst\'e4nks ha, problem som bottnar i SI problematik. Formul\'e4ret ing\'e5r i ett projekt vid University of Southern California (USC). Detta befinner sig fortfarande under utveckling och som
+ en del i processen har instrumentet \'f6versatts till kinesiska och japanska. F\'f6r n\'e4rvarande utvecklas ocks\'e5 en spansk version. Den, s\'e5v\'e4l som v\'e5r studie, sker i samarbete med USC.
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar Det st\'f6rsta problemet med att \'f6vers\'e4tta instrument \'e4r att kunna fastst\'e4lla om \'f6vers\'e4ttningen \'e4r likv\'e4rdig med originalet. Sechrest (S) diskuterar bland annat tre problemomr
+\'e5den: vokabul\'e4r, idiomatisk och kulturell likv\'e4rdighet. 
+\par \pard\plain \s2\li397\ri170\sb200\sa120\keepn\widctlpar\hyphpar0 \f65\fs28\lang1053 {\*\bkmkstart _Toc442164625}{\*\bkmkstart _Toc442617544}Bakgrund{\*\bkmkend _Toc442164625}{\*\bkmkend _Toc442617544}
+\par \pard\plain \s3\li397\ri170\sb80\keepn\widctlpar\hyphpar0 \b\f65\lang1053 {\*\bkmkstart _Toc442617545}SI-processen{\*\bkmkend _Toc442617545}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 Sensorisk integration \'e4r den neurologiska process som g\'f6r det m\'f6jligt f\'f6r m\'e4nniskan att reglera, bearbeta och tolka information fr\'e5n den eg
+na kroppen och omgivningen. Detta \'e4r n\'f6dv\'e4ndigt f\'f6r att kunna planera och utf\'f6ra handlingar och d\'e4rigenom fungera tillfredsst\'e4llande i det dagliga livet. N\'e4r ett barn framg\'e5ngsrikt m\'f6
+ter omgivningens krav upplever han det som att ha roligt, han leker. Den feedback barnet f\'e5r fr\'e5n dessa positiva erfarenheter anv\'e4nds i utvecklandet av mer avancerad sensorisk integration.(M, L,  R)
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar N\'e4r problem uppst\'e5r och barnet inte kan reglera, bearbeta och tolka intryck, refereras det som en SI-dysfunktion. Beroende p\'e5 dysfunktionen tar det f\'f6
+r dessa barn extra mycket energi att utf\'f6ra normalt sett enkla aktiviteter, vilket kan leda till stor frustration och d\'e5ligt sj\'e4lvf\'f6rtroende. Problemen kan \'e4ven leda till att barnen undviker att utforska sin omgivning och hindrar dem fr\'e5
+n att deltaga i och h\'e4mta kunskap fr\'e5n viktiga aktiviteter. Dessutom \'e4r barnen ofta missf\'f6rst\'e5dda av personer i dess n\'e4rhet eftersom problemen kan vara skiftande och of\'f6ruts\'e4gbara.(R)
+\par Ett barn med exempelvis taktilt f\'f6rsvar, det vill s\'e4ga \'f6verk\'e4nslighet och obehag mot ber\'f6ring som vanligtvis inte upplevs st\'f6rande (R, M), st\'f6ter p\'e5 m\'e5nga problem i sin vardag. Han kan till exempel k\'e4nna obehag av vissa kl
+\'e4desmaterial, verka kr\'e4sen i maten beroende p\'e5 konsistensen, hata att bada, duscha och tv\'e4tta h\'e5ret. Sv\'e5ra konflikter kan uppst\'e5 n\'e4r barnet beh\'f6ver klippa h\'e5r eller naglar. I skolan blir det ofta br\'e5k n\'e4r barnet st\'e5
+r i k\'f6 eller deltar i lekar d\'e4r det ing\'e5r kroppskontakt, exempelvis \ldblquote ta fatt\ldblquote . F\'f6r\'e4ldrar och l\'e4rare misstolkar l\'e4tt k\'e4llan till problemen och f\'f6rklarar det med d\'e5ligt uppf\'f6rande (I).
+\par \pard\plain \s3\li397\ri170\sb80\keepn\widctlpar\hyphpar0 \b\f65\lang1053 {\*\bkmkstart _Toc442617546}SI-teori{\*\bkmkend _Toc442617546}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 Ett centralt antagande i SI-teorin \'e4r att hj\'e4rnans funktioner \'e4r f\'f6r\'e4nderliga. Mest k\'e4nslig f\'f6r p\'e5verkan \'e4r hj\'e4rnan upp till cirka sju \'e5rs \'e5
+lder, vilket betyder att ju tidigare behandling s\'e4tts in desto effektivare blir den (L). En annan del i teorin \'e4r det adaptiva beteendet. Med det menas att en handling \'e4r meningsfull och m\'e5linriktad och m\'f6jligg\'f6r f\'f6
+r individen att framg\'e5ngsrikt l\'f6sa en uppgift och ta l\'e4rdom. Att utf\'f6ra en adaptiv handling fr\'e4mjar den sensoriska integrationen samtidigt som adaptiva handlingar reflekterar hur v\'e4l den fungerar\~(M, P).
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar Arbetsterapeuten guidas av SI-teorin i sin intervention. Genom att erbjuda \'f6kade f\'f6ruts\'e4ttningar till sensoriska intryck i ett sammanhang med meningsfull aktivitet, d\'e4r planering och utf
+\'f6rande sker i form av en adaptiv handling, kommer SI-processerna att f\'f6rb\'e4ttras. Detta leder i sin tur till \'f6kade f\'f6ruts\'e4ttningarna f\'f6r inl\'e4rning\~(P). 
+\par \pard\plain \s3\li397\ri170\sb80\keepn\widctlpar\hyphpar0 \b\f65\lang1053 {\*\bkmkstart _Toc442617547}SI-instrument{\*\bkmkend _Toc442617547}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 I USA finns en m\'e4ngd bed\'f6mningsinstrument, standardiserade och icke standardiserade, vilka p\'e5visar SI problem hos olika m\'e5lgrupper. Det mest omfattande m\'e4
+tinstrument inom SI \'e4r {\i Sensory Integration and Praxis Test} (SIPT), vilket best\'e5r av 17 deltest och utvecklades av bland\~andra teorins grundare J. Ayres. SIPT f\'f6rser arbetsterapeuten med diagnos och information ang\'e5
+ende sensorisk integration och praxis hos barn mellan 4 och 8 \'e5r med milda eller medelsv\'e5ra beteende-, inl\'e4rnings- eller utvecklingsproblem (P, H). SIPT tar emellertid l\'e5ng tid och \'e4r relativt dyr att genomf\'f6ra och dessutom \'e4
+r validiteten koncentrerad till en relativt liten m\'e5lgrupp j\'e4mf\'f6rt med den omfattning SI har\~(H).
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar I de fall d\'e4r SIPT inte \'e4r aktuellt tar arbetsterapeuten hj\'e4lp av checklistor, fr\'e5geformul\'e4r, observationer och intervjuer. Fr\'e5geformul\'e4r har utvecklats f\'f6r alla m\'e5
+lgrupper och f\'f6r olika tidsramar. De kallas vanligen f\'f6r \ldblquote sensory histories\ldblquote , det vill s\'e4ga sensorisk bakgrundsdata. Fr\'e5geformul\'e4ren befinner sig i olika stadier av utveckling, m\'e5
+nga saknar standardisering och har genomg\'e5tt f\'e5 validitets- och reliabilitetstester. Det finns dock en del v\'e4l testade fr\'e5geformul\'e4r (H), d\'e4ribland ESP-formul\'e4ret (I).
+\par \pard\plain \s3\li397\ri170\sb80\keepn\widctlpar\hyphpar0 \b\f65\lang1053 {\*\bkmkstart _Toc442617548}ESP{\*\bkmkend _Toc442617548}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 Formul\'e4ret utvecklades av en grupp experter och studenter vid USC och har d\'e4r genomg\'e5tt flera reliabilitets- och validitetstester f\'f6r att n\'e5
+ sin nuvarande form (I). Det best\'e5r av 185 fr\'e5gor uppdelat i sex grupper baserat p\'e5 de olika sinnena som fr\'e4mst p\'e5verkar den sensoriska integrationen. Svarsalternativen \'e4r grundade p\'e5 Likerts ordinalskala (N) med ett till\'e4gg, {\i 
+not applicable}, det vill s\'e4ga ej aktuellt (bilaga 1).
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar Fr\'e5geformul\'e4ret ger en profil av barnet och hj\'e4lper arbetsterapeuten att f\'f6rst\'e5 hur han reagerar p\'e5 sensoriska stimuli i sin naturliga milj\'f6.
+\par \pard\plain \s1\li397\ri170\sb200\sa160\keepn\widctlpar\hyphpar0 \scaps\f65\fs36\lang1053\kerning28 {\*\bkmkstart _Toc442164626}{\*\bkmkstart _Toc442617549}Syfte{\*\bkmkend _Toc442164626}{\*\bkmkend _Toc442617549}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 Syftet med studien \'e4r att revidera fr\'e5geformul\'e4ret \ldblquote Evaluation of Sensory Processing\ldblquote  (ESP) s\'e5 att detta passar svenska f\'f6rh\'e5
+llanden och generera en giltig \'f6vers\'e4ttning till svenska. 
+\par \pard\plain \s1\li397\ri170\sb200\sa160\keepn\widctlpar\hyphpar0 \scaps\f65\fs36\lang1053\kerning28 {\*\bkmkstart _Toc442164627}{\*\bkmkstart _Toc442617550}Metod{\*\bkmkend _Toc442164627}{\*\bkmkend _Toc442617550}
+\par \pard\plain \s2\li397\ri170\sb200\sa120\keepn\widctlpar\hyphpar0 \f65\fs28\lang1053 {\*\bkmkstart _Toc442164628}{\*\bkmkstart _Toc442617551}Backtranslation{\*\bkmkend _Toc442164628}{\*\bkmkend _Toc442617551}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 En av de mest anv\'e4nda och rekommenderade \'f6vers\'e4ttningsmetoden \'e4r \ldblquote backtranslation\ldblquote . Denna metod inneb\'e4r att instrumentets originalspr\'e5k
+version \'f6vers\'e4tts till det nya spr\'e5ket. Det \'e4r viktigt att \'f6vers\'e4ttaren \'e4r v\'e4l insatt i b\'e5da spr\'e5ken, eftersom det \'e4r av st\'f6rsta vikt att versionernas inneb\'f6rd \'e4r den samma och att h\'e4nsyn tagits till spr\'e5
+kliga och kulturella nyanser (S). \'d6vers\'e4ttningen b\'f6r inte vara bokstavlig. I v\'e4stv\'e4rlden anv\'e4nds till exempel uttrycket \ldblquote framtiden k\'e4nns svart\ldblquote  om depression och svart f\'f6rknippas med sorg till skillnad fr\'e5
+n Kina d\'e4r sorgens f\'e4rg \'e4r vit (A).
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar I n\'e4sta steg \'f6vers\'e4tts den nya versionen av en annan person tillbaka till originalspr\'e5ket (originalspr\'e5ksversion II). Originalspr\'e5kversionen och originalspr\'e5kversion\~
+II delas ut till enspr\'e5kiga personer som sedan analyserar formul\'e4ren utifr\'e5n varje enskild fr\'e5ga. Om inneb\'f6rden g\'e5tt f\'f6rlorad eller f\'f6r\'e4ndrats i n\'e5gon del av formul\'e4ret skall denna del g\'e5
+ igenom hela processen igen (F, A).
+\par En pilotstudie genomf\'f6rs f\'f6r att kontrollera instrumentets reliabilitet och validitet\~(G). Det idealiska tillv\'e4gag\'e5ngss\'e4ttet vid j\'e4mf\'f6relse av reliabilitet och validitet mellan originalspr\'e5kversionen av instrumentet och den \'f6
+versatta versionen \'e4r att dela ut b\'e5da dessa formul\'e4r till tv\'e5spr\'e5kiga personer. De tv\'e5 ifyllda versionerna b\'f6r visa en h\'f6g korrelation sinsemellan (F).
+\par \pard\plain \s2\li397\ri170\sb200\sa120\keepn\widctlpar\hyphpar0 \f65\fs28\lang1053 {\*\bkmkstart _Toc442164629}{\*\bkmkstart _Toc442617552}Tillv\'e4gag\'e5ngss\'e4tt{\*\bkmkend _Toc442164629}{\*\bkmkend _Toc442617552}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 I s{\i teg 1}{\b\i  }\'f6vers\'e4tter f\'f6rfattarna fr\'e5geformul\'e4ret var f\'f6r sig. Detta f\'f6r att minska risken f\'f6r fel\'f6vers\'e4ttning och d\'e4rmed \'f6
+ka validiteten. D\'e4refter j\'e4mf\'f6rs resultaten fr\'e5ga efter fr\'e5ga, kulturella och andra olikheter diskuteras och den b\'e4sta \'f6vers\'e4ttningen bearbetas fram.
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar I {\i steg 2} \'f6vers\'e4tts instrumentet tillbaka till engelska av{\b\i  }tv\'e5 professionella \'f6vers\'e4ttare. Detta sker individuellt och sedan genomf\'f6rs en gemensam spr\'e5
+kgranskning. Den nya engelska versionen skickas till USC i Los Angeles, d\'e4r en expertgrupp inom SI j\'e4mf\'f6r den originalspr\'e5kversion\~II med originalspr\'e5kversionen f\'f6r att utr\'f6na om formul\'e4ret beh\'e5llit sin validitet.
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar F\'f6r att ytterligare kulturanpassa instrumentet genomf\'f6rs i {\i steg 3} en diskussion med svenska arbetsterapeuter. Dessa har erfarenhet inom barnhabilitering och intresse f\'f6r sensorisk int
+egration. Eftersom instrumentet utvecklats i s\'f6dra Kalifornien existerar inga fr\'e5gor ang\'e5ende till exempel vinterf\'f6rh\'e5llanden. Genom att diskutera problemomr\'e5den f\'f6r\'e4ldrar tagit upp med arbetsterapeuterna kan eventuellt nya fr\'e5
+gor adderas till den svenska versionen.
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar {\i Steg 4}{\b\i  }inneb\'e4r en pilotstudie, d\'e4r det svenska instrumentet testas av sex sm\'e5barnsf\'f6r\'e4ldrar. Dessa intervjuas f\'f6r att f\'e5 fram eventuella sv\'e5righeter att f\'f6rst
+\'e5 inneh\'e5llet, eller om missf\'f6rst\'e5nd f\'f6rekommer. Grundat p\'e5 dessa intervjuer kommer n\'f6dv\'e4ndiga \'e4ndringar att utf\'f6ras.
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar I {\i steg 5} kommer resultaten publiceras i vetenskaplig tidskrift.
+\par \pard\plain \s2\li397\ri170\sb200\sa120\keepn\widctlpar\hyphpar0 \f65\fs28\lang1053 Unders\'f6kningsgrupp
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 Kontakt med intresserade f\'f6r\'e4ldrar tas via arbetsterapeuter som \'e4
+r medlemmar i Swedish Sensory Integration Association (SSIA). Brev med information (se Bilaga 2) skickas ut f\'f6ljt av telefonsamtal d\'e4r deltagandet accepteras och tid och plats f\'f6r intervju best\'e4ms. Formul\'e4
+ret skickas ut i god tid innan intervjun.
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar Unders\'f6kningsgruppen skall omfatta sex f\'f6r\'e4ldrar till barn med misst\'e4nkt SI-problematik.
+\par \pard\plain \s1\li397\ri170\sb200\sa160\keepn\widctlpar\hyphpar0 \scaps\f65\fs36\lang1053\kerning28 {\*\bkmkstart _Toc442164631}{\*\bkmkstart _Toc442617554}Studiens betydelse{\*\bkmkend _Toc442164631}{\*\bkmkend _Toc442617554}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 Insamling av data om patienter \'e4r en viktig del i den arbetsterapeutiska processen. Dels besvaras fr\'e5gor som g\'f6r att arbetsterapeuten kan dra slutsatser utifr\'e5
+n de teoretiska referenser hon/han jobbar efter. Dels anv\'e4nds datan f\'f6r att g\'f6ra en moralisk v\'e4rdering om hur terapin skall utformas (O). F\'f6r att mer effektivt utf\'f6ra en bed\'f6mning och d\'e4rigenom m\'f6ta klientens behov, b\'f6
+r arbetsterapeuten anv\'e4nda sig av bed\'f6mningsinstrument. Det \'e4r av stor vikt att \'f6ka omfattningen av valida, reliabla och k\'e4nsliga instrument f\'f6r att \'f6ka en professions status, speciellt f\'f6r arbetsterapi som \'e4
+r ett yrke under utveckling (I). 
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar Exakt hur SI-processen fungerar \'e4r fortfarande ok\'e4nt, men detta \'e4r ingen orsak att undvika n\'e5got som \'e4r s\'e5 grundl\'e4ggande f\'f6r inl\'e4rningsf\'f6rm\'e5gan. Den m\'e5
+ste behandlas s\'e5 korrekt som den nuvarande kunskapen till\'e5ter. Samtidigt skall man vara v\'e4l medveten om de begr\'e4nsningar varje teori/referensram inneh\'e5ller. Det kr\'e4vs att den \'e4r under st\'e4ndig f\'f6r\'e4n
+dring allteftersom ny kunskap v\'e4xer fram (P).
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar Vi anser att en svensk version av ESP \'e4r av stor betydelse f\'f6r den framtida arbetsterapin i Sverige och skulle komma m\'e5nga arbetsterapeuter till nytta i deras arbete med barn och ungdomar.
+
+\par \pard\plain \s1\li397\ri170\sb200\sa160\keepn\widctlpar\hyphpar0 \scaps\f65\fs36\lang1053\kerning28 {\*\bkmkstart _Toc442164632}{\*\bkmkstart _Toc442617555}\page Tidsplan{\*\bkmkend _Toc442164632}{\*\bkmkend _Toc442617555}
+\par \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar \f49\lang1053 Vi planerar att arbeta med projektet p\'e5 halvfart under ett \'e5rs tid (se bilaga 3).
+\par \pard\plain \s1\li397\ri170\sb200\sa160\keepn\widctlpar\hyphpar0 \scaps\f65\fs36\lang1053\kerning28 {\*\bkmkstart _Toc442164633}{\*\bkmkstart _Toc442617556}Ekonomisk kalkyl{\*\bkmkend _Toc442164633}{\*\bkmkend _Toc442617556}
+\par \trowd \trgaph142\trleft354\trbrdrt\brdrs\brdrw15\brdrcf1 \trbrdrl\brdrs\brdrw15\brdrcf1 \trbrdrb\brdrs\brdrw15\brdrcf1 \trbrdrr\brdrs\brdrw15\brdrcf1 \trbrdrh\brdrs\brdrw15\brdrcf1 \trbrdrv\brdrs\brdrw15\brdrcf1 \clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl
+\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \cellx5882\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx8931 \pard\plain \li113\ri170\widctlpar\intbl \f49\lang1053 Litteraturs\'f6kning\cell \pard 
+\qr\li170\ri170\widctlpar\intbl 200 kr\cell \pard \widctlpar\intbl \row \trowd \trgaph142\trleft354\trbrdrt\brdrs\brdrw15\brdrcf1 \trbrdrl\brdrs\brdrw15\brdrcf1 \trbrdrb\brdrs\brdrw15\brdrcf1 \trbrdrr\brdrs\brdrw15\brdrcf1 \trbrdrh\brdrs\brdrw15\brdrcf1 
+\trbrdrv\brdrs\brdrw15\brdrcf1 \clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \cellx5882\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx8931 \pard 
+\li113\ri170\widctlpar\intbl Litteratur: kopiering av artiklar, efters\'e4ndning av opublicerat material fr\'e5n USA\cell \pard \qr\li170\ri170\widctlpar\intbl 600 kr\cell \pard \widctlpar\intbl \row \pard \li113\ri170\widctlpar\intbl 
+Resor och porto i samband med pilotstudie\cell \pard \qr\li170\ri170\widctlpar\intbl 200 kr\cell \pard \widctlpar\intbl \row \pard \li113\ri170\widctlpar\intbl Telefonkontakt med handledare i USA\cell \pard \qr\li170\ri170\widctlpar\intbl 400 kr\cell 
+\pard \widctlpar\intbl \row \pard \li113\ri170\widctlpar\intbl \'d6vers\'e4ttning: 275 kr/100 ord + moms\cell \pard \qr\li170\ri170\widctlpar\intbl 27 500 kr\cell \pard \widctlpar\intbl \row \pard \li113\ri170\widctlpar\intbl Spr\'e5
+kgranskning: 580 kr/timme + moms\cell \pard \qr\li170\ri170\widctlpar\intbl 2 900 kr\cell \pard \widctlpar\intbl \row \trowd \trgaph142\trleft354\trbrdrt\brdrs\brdrw15\brdrcf1 \trbrdrl\brdrs\brdrw15\brdrcf1 \trbrdrb\brdrs\brdrw15\brdrcf1 \trbrdrr
+\brdrs\brdrw15\brdrcf1 \trbrdrh\brdrs\brdrw15\brdrcf1 \trbrdrv\brdrs\brdrw15\brdrcf1 \clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \cellx5882\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 
+\clbrdrr\brdrs\brdrw15\brdrcf1 \cellx8931 \pard \li113\ri170\widctlpar\intbl {\b Slutsumma}\cell \pard \qr\li170\ri170\widctlpar\intbl {\b 31 800 kr}\cell \pard \widctlpar\intbl \row \pard\plain \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar 
+\f49\lang1053 {\i Formul\'e4ret inneh\'e5ller ca 4000 ord, tv\'e5 professionella \'f6vers\'e4ttare kommer att anlitas och f\'f6rfattarna r\'e4knar med att dessa beh\'f6ver ca 2 timmar till spr\'e5kgranskning.
+\par }\pard\plain \s1\li397\ri170\sb200\sa160\keepn\widctlpar\hyphpar0 \scaps\f65\fs36\lang1053\kerning28 \page {\*\bkmkstart _Toc442164634}{\*\bkmkstart _Toc442617557}Referenslista{\*\bkmkend _Toc442164634}{\*\bkmkend _Toc442617557}
+\par {\pntext\pard\plain\f49 A.\tab}\pard\plain \s15\fi-360\li757\ri170\sa180\sl240\slmult0\widctlpar\tx757{\*\pn \pnlvlbody\pnucltr\
+\pnstart1\pnindent757\pnhang{\pntxta .}}\f49\lang1053 Streiner DL, Norman GR. Healt
+h measurement scales: a practical guide to their development and use. 2{\super nd} ed.Oxford: Oxford medical publications; 1995.
+\par {\pntext\pard\plain\f49 B.\tab}\pard \s15\fi-360\li757\ri170\sa180\sl240\slmult0\widctlpar\tx757{\*\pn \pnlvlbody\pnucltr\
+\pnstart1\pnindent757\pnhang{\pntxta .}}Knapp TR. Validity, reability, and neither. Nursing research 1985;(34):189-192.
+\par {\pntext\pard\plain\f49 C.\tab}\pard \s15\fi-360\li757\ri170\sa180\sl240\slmult0\widctlpar\tx757{\*\pn \pnlvlbody\pnucltr\
+\pnstart1\pnindent757\pnhang{\pntxta .}}
+Hachey R, Jumoorty J, Mercier C. Methodology for validating the translation of test measurements applied to occupational therapy. Occupational Therapy International 1995;(2):190-203.
+\par {\pntext\pard\plain\f49 D.\tab}\pard \s15\fi-360\li757\ri170\sa180\sl240\slmult0\widctlpar\tx757{\*\pn \pnlvlbody\pnucltr\
+\pnstart1\pnindent757\pnhang{\pntxta .}}Bernsp\'e5
+ng B, Fischer AG. Validation of the assessment of motor and process skills for use in sweden. Scand J Occup Ther 1995;(2):3-9.
+\par {\pntext\pard\plain\f49 E.\tab}Case-Smith J. Clinical interpretation of factor analysis on the sensory profile from a national sample of children without disabilities. Am J Occup Ther: 1997; 51: 496-499.
+\par {\pntext\pard\plain\f49 F.\tab}Jones E. Translation of quantitatative measures for use in cross-cultural research. Nursing reasearch 1987; 36:324-326.
+\par {\pntext\pard\plain\f49 G.\tab}Haglund L, Karlsson G, Kielhofner G, Shei Lai J. Validity of the swedish version of the worker role interview. Scand J Occup Ther 1997;(4):23-29.
+\par {\pntext\pard\plain\f49 H.\tab}Spitzer S, Smith Roley S, Clark F, Parham D. Sensory Integration: current trends in the united states. Scand J Occup Ther 1996;3:123-138.
+\par {\pntext\pard\plain\f49 I.\tab}\pard \s15\fi-360\li757\ri170\sa180\sl240\slmult0\widctlpar\tx757{\*\pn \pnlvlbody\pnucltr\
+\pnstart1\pnindent757\pnhang{\pntxta .}}Tim
+\par {\pntext\pard\plain\f49 J.\tab}\pard \s15\fi-360\li757\ri170\sa180\sl240\slmult0\widctlpar\tx757{\*\pn \pnlvlbody\pnucltr\
+\pnstart1\pnindent757\pnhang{\pntxta .}}
+Benson J, Clark F. A guide for instrument development and validation. Am J Occup Ther: 1982;36:789-800.
+\par {\pntext\pard\plain\f49 K.\tab}Merbitz C, Morris J, Grip JC. Ordinal scales and foundations of misinference. Arch Phys Med Rehabil 1989;(70): 308-312.
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar\tx757{\*\pn \pnlvlcont\pnucltr\
+ }{\lang1033 
+\par {\pntext\pard\plain\f49\lang1033  \tab}}\pard \s15\qj\fi-360\li757\ri170\sa180\sl240\slmult0\widctlpar\tx757{\*\pn \pnlvlbody\pnucltr\
+ }{\lang1033  
+\par }\pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar\tx757{\*\pn \pnlvlcont\pnucltr\
+ }
+\par 
+\par \pard \s15\qj\li397\ri170\sa180\sl240\slmult0\widctlpar\tx757 
+\par }
